@@ -1,0 +1,53 @@
+[23:41:05] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:41:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:41:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:41:05] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[23:41:05] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[23:41:06] [main/INFO]: Loaded 0 recipes
+[23:41:06] [main/INFO]: Loaded 0 advancements
+[23:41:06] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[23:41:06] [Server thread/INFO]: Loading properties
+[23:41:06] [Server thread/INFO]: Default game type: SURVIVAL
+[23:41:06] [Server thread/INFO]: Generating keypair
+[23:41:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:41:07] [Server thread/INFO]: Using default channel type
+[23:41:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:41:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:41:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[23:41:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:41:09] [Server thread/INFO]: Preparing level "world"
+[23:41:09] [Server thread/INFO]: Reloading ResourceManager: Default
+[23:41:11] [Server thread/INFO]: Loaded 524 recipes
+[23:41:12] [Server thread/INFO]: Loaded 571 advancements
+[23:41:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:41:13] [Server thread/INFO]: Preparing spawn area: 4%
+[23:41:13] [Server thread/INFO]: Preparing spawn area: 8%
+[23:41:13] [Server thread/INFO]: Preparing spawn area: 12%
+[23:41:13] [Server thread/INFO]: Preparing spawn area: 16%
+[23:41:13] [Server thread/INFO]: Preparing spawn area: 20%
+[23:41:13] [Server thread/INFO]: Preparing spawn area: 24%
+[23:41:13] [Server thread/INFO]: Preparing spawn area: 28%
+[23:41:13] [Server thread/INFO]: Preparing spawn area: 32%
+[23:41:13] [Server thread/INFO]: Preparing spawn area: 36%
+[23:41:13] [Server thread/INFO]: Preparing spawn area: 40%
+[23:41:14] [Server thread/INFO]: Preparing spawn area: 44%
+[23:41:14] [Server thread/INFO]: Preparing spawn area: 48%
+[23:41:14] [Server thread/INFO]: Preparing spawn area: 52%
+[23:41:14] [Server thread/INFO]: Preparing spawn area: 56%
+[23:41:14] [Server thread/INFO]: Preparing spawn area: 60%
+[23:41:14] [Server thread/INFO]: Preparing spawn area: 64%
+[23:41:14] [Server thread/INFO]: Preparing spawn area: 68%
+[23:41:14] [Server thread/INFO]: Preparing spawn area: 72%
+[23:41:14] [Server thread/INFO]: Preparing spawn area: 76%
+[23:41:14] [Server thread/INFO]: Preparing spawn area: 80%
+[23:41:14] [Server thread/INFO]: Preparing spawn area: 84%
+[23:41:15] [Server thread/INFO]: Preparing spawn area: 88%
+[23:41:15] [Server thread/INFO]: Preparing spawn area: 92%
+[23:41:15] [Server thread/INFO]: Preparing spawn area: 96%
+[23:41:15] [Server thread/INFO]: Preparing spawn area: 100%
+[23:41:15] [Server thread/INFO]: Time elapsed: 2502 ms
+[23:41:15] [Server thread/INFO]: Done (5.760s)! For help, type "help"
+[23:41:40] [Server thread/INFO]: mauu[/127.0.0.1:51335] logged in with entity id 468 at (135.5, 70.0, -2.5)
+[23:41:40] [Server thread/INFO]: mauu joined the game
+[23:42:07] [Server thread/INFO]: mauu lost connection: Disconnected
+[23:42:07] [Server thread/INFO]: mauu left the game
