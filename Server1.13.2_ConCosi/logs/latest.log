@@ -1,53 +1,171 @@
-[23:41:05] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:41:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:41:05] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:41:05] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[23:41:05] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[23:41:06] [main/INFO]: Loaded 0 recipes
-[23:41:06] [main/INFO]: Loaded 0 advancements
-[23:41:06] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[23:41:06] [Server thread/INFO]: Loading properties
-[23:41:06] [Server thread/INFO]: Default game type: SURVIVAL
-[23:41:06] [Server thread/INFO]: Generating keypair
-[23:41:07] [Server thread/INFO]: Starting Minecraft server on *:25565
-[23:41:07] [Server thread/INFO]: Using default channel type
-[23:41:09] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[23:41:09] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[23:41:09] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[23:41:09] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[23:41:09] [Server thread/INFO]: Preparing level "world"
-[23:41:09] [Server thread/INFO]: Reloading ResourceManager: Default
-[23:41:11] [Server thread/INFO]: Loaded 524 recipes
-[23:41:12] [Server thread/INFO]: Loaded 571 advancements
-[23:41:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[23:41:13] [Server thread/INFO]: Preparing spawn area: 4%
-[23:41:13] [Server thread/INFO]: Preparing spawn area: 8%
-[23:41:13] [Server thread/INFO]: Preparing spawn area: 12%
-[23:41:13] [Server thread/INFO]: Preparing spawn area: 16%
-[23:41:13] [Server thread/INFO]: Preparing spawn area: 20%
-[23:41:13] [Server thread/INFO]: Preparing spawn area: 24%
-[23:41:13] [Server thread/INFO]: Preparing spawn area: 28%
-[23:41:13] [Server thread/INFO]: Preparing spawn area: 32%
-[23:41:13] [Server thread/INFO]: Preparing spawn area: 36%
-[23:41:13] [Server thread/INFO]: Preparing spawn area: 40%
-[23:41:14] [Server thread/INFO]: Preparing spawn area: 44%
-[23:41:14] [Server thread/INFO]: Preparing spawn area: 48%
-[23:41:14] [Server thread/INFO]: Preparing spawn area: 52%
-[23:41:14] [Server thread/INFO]: Preparing spawn area: 56%
-[23:41:14] [Server thread/INFO]: Preparing spawn area: 60%
-[23:41:14] [Server thread/INFO]: Preparing spawn area: 64%
-[23:41:14] [Server thread/INFO]: Preparing spawn area: 68%
-[23:41:14] [Server thread/INFO]: Preparing spawn area: 72%
-[23:41:14] [Server thread/INFO]: Preparing spawn area: 76%
-[23:41:14] [Server thread/INFO]: Preparing spawn area: 80%
-[23:41:14] [Server thread/INFO]: Preparing spawn area: 84%
-[23:41:15] [Server thread/INFO]: Preparing spawn area: 88%
-[23:41:15] [Server thread/INFO]: Preparing spawn area: 92%
-[23:41:15] [Server thread/INFO]: Preparing spawn area: 96%
-[23:41:15] [Server thread/INFO]: Preparing spawn area: 100%
-[23:41:15] [Server thread/INFO]: Time elapsed: 2502 ms
-[23:41:15] [Server thread/INFO]: Done (5.760s)! For help, type "help"
-[23:41:40] [Server thread/INFO]: mauu[/127.0.0.1:51335] logged in with entity id 468 at (135.5, 70.0, -2.5)
-[23:41:40] [Server thread/INFO]: mauu joined the game
-[23:42:07] [Server thread/INFO]: mauu lost connection: Disconnected
-[23:42:07] [Server thread/INFO]: mauu left the game
+[16:59:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:59:06] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:59:06] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[16:59:06] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[16:59:06] [main/INFO]: Loaded 0 recipes
+[16:59:06] [main/INFO]: Loaded 0 advancements
+[16:59:06] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[16:59:06] [Server thread/INFO]: Loading properties
+[16:59:06] [Server thread/INFO]: Default game type: SURVIVAL
+[16:59:06] [Server thread/INFO]: Generating keypair
+[16:59:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:59:06] [Server thread/INFO]: Using default channel type
+[16:59:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:59:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:59:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:59:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:59:08] [Server thread/INFO]: Preparing level "world"
+[16:59:08] [Server thread/INFO]: Reloading ResourceManager: Default
+[16:59:10] [Server thread/INFO]: Loaded 524 recipes
+[16:59:12] [Server thread/INFO]: Loaded 571 advancements
+[16:59:13] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:59:13] [Server thread/INFO]: Preparing spawn area: 4%
+[16:59:13] [Server thread/INFO]: Preparing spawn area: 8%
+[16:59:14] [Server thread/INFO]: Preparing spawn area: 12%
+[16:59:14] [Server thread/INFO]: Preparing spawn area: 16%
+[16:59:14] [Server thread/INFO]: Preparing spawn area: 20%
+[16:59:14] [Server thread/INFO]: Preparing spawn area: 24%
+[16:59:14] [Server thread/INFO]: Preparing spawn area: 28%
+[16:59:15] [Server thread/INFO]: Preparing spawn area: 32%
+[16:59:15] [Server thread/INFO]: Preparing spawn area: 36%
+[16:59:15] [Server thread/INFO]: Preparing spawn area: 40%
+[16:59:15] [Server thread/INFO]: Preparing spawn area: 44%
+[16:59:15] [Server thread/INFO]: Preparing spawn area: 48%
+[16:59:15] [Server thread/INFO]: Preparing spawn area: 52%
+[16:59:16] [Server thread/INFO]: Preparing spawn area: 56%
+[16:59:16] [Server thread/INFO]: Preparing spawn area: 60%
+[16:59:16] [Server thread/INFO]: Preparing spawn area: 64%
+[16:59:16] [Server thread/INFO]: Preparing spawn area: 68%
+[16:59:16] [Server thread/INFO]: Preparing spawn area: 72%
+[16:59:16] [Server thread/INFO]: Preparing spawn area: 76%
+[16:59:16] [Server thread/INFO]: Preparing spawn area: 80%
+[16:59:16] [Server thread/INFO]: Preparing spawn area: 84%
+[16:59:16] [Server thread/INFO]: Preparing spawn area: 88%
+[16:59:16] [Server thread/INFO]: Preparing spawn area: 92%
+[16:59:16] [Server thread/INFO]: Preparing spawn area: 96%
+[16:59:16] [Server thread/INFO]: Preparing spawn area: 100%
+[16:59:16] [Server thread/INFO]: Time elapsed: 3742 ms
+[16:59:16] [Server thread/INFO]: Done (8.181s)! For help, type "help"
+[16:59:22] [Server thread/INFO]: mau[/127.0.0.1:56448] logged in with entity id 434 at (67.4795259948418, 73.0, -49.65163572551423)
+[16:59:22] [Server thread/INFO]: mau joined the game
+[16:59:31] [Server thread/INFO]: sopa[/25.41.64.0:61815] logged in with entity id 507 at (136.5, 70.0, 6.5)
+[16:59:31] [Server thread/INFO]: sopa joined the game
+[16:59:49] [Server thread/INFO]: sopa lost connection: Disconnected
+[16:59:49] [Server thread/INFO]: sopa left the game
+[17:00:48] [Server thread/INFO]: apos[/25.41.64.0:61845] logged in with entity id 2452 at (118.8251436473597, 70.0, -13.671899039982065)
+[17:00:48] [Server thread/INFO]: apos joined the game
+[17:01:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[17:01:08] [Server thread/INFO]: apos lost connection: Disconnected
+[17:01:08] [Server thread/INFO]: apos left the game
+[17:01:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4446ms or 88 ticks behind
+[17:01:54] [Server thread/INFO]: Sopa[/25.41.64.0:61876] logged in with entity id 3657 at (17.851837707033777, 70.0, -27.606174775883947)
+[17:01:54] [Server thread/INFO]: Sopa joined the game
+[17:02:24] [Server thread/INFO]: Sopa lost connection: Timed out
+[17:02:24] [Server thread/INFO]: Sopa left the game
+[17:02:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2046ms or 40 ticks behind
+[17:02:28] [Server thread/INFO]: Sopa[/25.41.64.0:61877] logged in with entity id 4891 at (17.851837707033777, 70.0, -27.606174775883947)
+[17:02:28] [Server thread/INFO]: Sopa joined the game
+[17:05:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[17:06:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[17:07:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6901ms or 138 ticks behind
+[17:07:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2368ms or 47 ticks behind
+[17:07:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2655ms or 53 ticks behind
+[17:08:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3567ms or 71 ticks behind
+[17:08:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3205ms or 64 ticks behind
+[17:08:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3540ms or 70 ticks behind
+[17:09:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6069ms or 121 ticks behind
+[17:11:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[17:12:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:12:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
+[17:13:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8392ms or 167 ticks behind
+[17:13:21] [Server thread/WARN]: mau moved too quickly! -6.717999062611778,1.1661092609382138,7.623972841859242
+[17:13:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4481ms or 89 ticks behind
+[17:13:50] [Server thread/WARN]: mau moved too quickly! 4.312351264386038,1.127890238205481,9.145098027042792
+[17:14:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11574ms or 231 ticks behind
+[17:14:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14629ms or 292 ticks behind
+[17:15:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21630ms or 432 ticks behind
+[17:15:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10300ms or 206 ticks behind
+[17:16:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[17:16:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[17:17:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2499ms or 49 ticks behind
+[17:17:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4939ms or 98 ticks behind
+[17:17:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3450ms or 69 ticks behind
+[17:17:59] [Server thread/WARN]: mau moved too quickly! 7.87703954980455,-2.231523797587016,6.106939919800766
+[17:18:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12049ms or 240 ticks behind
+[17:18:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8065ms or 161 ticks behind
+[17:19:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12603ms or 252 ticks behind
+[17:19:17] [Server thread/WARN]: mau moved too quickly! -5.171610793848288,0.7531999805212024,-8.853008865661309
+[17:19:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15054ms or 301 ticks behind
+[17:20:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22271ms or 445 ticks behind
+[17:20:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11393ms or 227 ticks behind
+[17:21:06] [Server thread/INFO]: mau has made the advancement [Best Friends Forever]
+[17:21:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8126ms or 162 ticks behind
+[17:21:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17535ms or 350 ticks behind
+[17:22:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9062ms or 181 ticks behind
+[17:22:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8359ms or 167 ticks behind
+[17:22:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8573ms or 171 ticks behind
+[17:23:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4579ms or 91 ticks behind
+[17:23:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[17:23:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3900ms or 78 ticks behind
+[17:24:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10268ms or 205 ticks behind
+[17:24:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2303ms or 46 ticks behind
+[17:25:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2924ms or 58 ticks behind
+[17:25:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2422ms or 48 ticks behind
+[17:25:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:26:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
+[17:26:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2043ms or 40 ticks behind
+[17:27:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17:28:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[17:30:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2055ms or 41 ticks behind
+[17:30:45] [Server thread/INFO]: mau has made the advancement [What a Deal!]
+[17:35:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[17:35:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:36:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[17:37:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3967ms or 79 ticks behind
+[17:40:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2223ms or 44 ticks behind
+[17:40:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
+[17:41:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:41:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3238ms or 64 ticks behind
+[17:41:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4990ms or 99 ticks behind
+[17:42:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2910ms or 58 ticks behind
+[17:42:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[17:43:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[17:43:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2438ms or 48 ticks behind
+[17:44:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17:44:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2835ms or 56 ticks behind
+[17:45:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:56:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2355ms or 47 ticks behind
+[17:56:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3139ms or 62 ticks behind
+[17:57:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3568ms or 71 ticks behind
+[17:58:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[17:59:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2105ms or 42 ticks behind
+[18:00:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[18:00:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[18:00:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2579ms or 51 ticks behind
+[18:01:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3123ms or 62 ticks behind
+[18:01:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5320ms or 106 ticks behind
+[18:01:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5954ms or 119 ticks behind
+[18:02:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3346ms or 66 ticks behind
+[18:03:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[18:03:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6429ms or 128 ticks behind
+[18:03:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3836ms or 76 ticks behind
+[18:04:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[18:04:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6448ms or 128 ticks behind
+[18:04:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6511ms or 130 ticks behind
+[18:05:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4299ms or 85 ticks behind
+[18:05:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2809ms or 56 ticks behind
+[18:05:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2446ms or 48 ticks behind
+[18:06:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5353ms or 107 ticks behind
+[18:06:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7491ms or 149 ticks behind
+[18:07:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[18:07:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2092ms or 41 ticks behind
+[18:07:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6759ms or 135 ticks behind
+[18:08:12] [Server thread/WARN]: mau moved too quickly! 0.0,10.465000184059136,0.0
+[18:08:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[18:09:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[18:09:43] [Server thread/INFO]: Sopa lost connection: Disconnected
+[18:09:43] [Server thread/INFO]: Sopa left the game
+[18:09:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2293ms or 45 ticks behind
+[18:10:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2698ms or 53 ticks behind
+[18:13:16] [Server thread/INFO]: mau lost connection: Disconnected
+[18:13:16] [Server thread/INFO]: mau left the game
