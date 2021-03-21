@@ -248,6 +248,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2019-09-28 20:17:17 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-11-18 12:45:04 +0100"
@@ -442,6 +448,12 @@
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2018-11-18 18:24:32 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2019-09-29 13:05:27 +0200"
     },
     "done": true
   },
@@ -775,6 +787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2019-09-29 13:05:27 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2019-03-16 03:34:07 +0100"
@@ -1014,13 +1032,13 @@
       "minecraft:husk": "2018-11-18 17:49:51 +0100",
       "minecraft:ghast": "2018-12-11 17:56:54 +0100",
       "minecraft:cave_spider": "2019-03-16 02:43:51 +0100",
-      "minecraft:silverfish": "2019-03-16 02:59:23 +0100",
       "minecraft:enderman": "2018-11-18 13:33:40 +0100",
+      "minecraft:silverfish": "2019-03-16 02:59:23 +0100",
       "minecraft:magma_cube": "2018-11-18 17:41:58 +0100",
       "minecraft:spider": "2018-11-18 14:21:49 +0100",
       "minecraft:zombie": "2018-11-18 12:47:50 +0100",
-      "minecraft:drowned": "2019-03-16 11:42:48 +0100",
       "minecraft:creeper": "2018-11-18 14:04:43 +0100",
+      "minecraft:drowned": "2019-03-16 11:42:48 +0100",
       "minecraft:zombie_villager": "2019-03-17 01:11:31 +0100"
     },
     "done": false
@@ -1745,6 +1763,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2019-09-28 17:43:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2018-11-18 12:35:41 +0100"
@@ -1981,6 +2005,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2019-03-17 00:52:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_stone_bricks": {
+    "criteria": {
+      "has_end_stone": "2019-09-28 17:57:44 +0200"
     },
     "done": true
   },

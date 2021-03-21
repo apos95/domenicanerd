@@ -364,13 +364,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-18 12:24:55 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-11-18 12:24:55 +0100"
     },
@@ -671,15 +671,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2018-11-18 12:29:41 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2018-11-18 12:29:41 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_diamond": "2018-11-18 12:29:41 +0100"
+      "has_glowstone_dust": "2019-09-29 12:51:02 +0200"
     },
     "done": true
   },
@@ -698,6 +704,7 @@
       "minecraft:wither_skeleton": "2018-11-18 18:20:50 +0100",
       "minecraft:zombie_pigman": "2018-11-18 18:24:22 +0100",
       "minecraft:husk": "2018-12-11 17:15:38 +0100",
+      "minecraft:ghast": "2019-09-29 13:06:28 +0200",
       "minecraft:enderman": "2018-11-18 16:09:21 +0100",
       "minecraft:magma_cube": "2018-11-18 18:19:16 +0100",
       "minecraft:spider": "2018-11-18 14:54:08 +0100",
@@ -1052,6 +1059,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2018-11-18 12:28:16 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2019-09-29 12:51:02 +0200"
     },
     "done": true
   },
