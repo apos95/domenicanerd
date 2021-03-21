@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_pillar": {
+    "criteria": {
+      "has_quartz_block": "2021-03-21 21:04:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2021-03-14 16:26:53 +0100"
@@ -80,6 +86,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_brick": "2021-03-14 19:28:24 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-21 21:19:44 +0100"
     },
     "done": true
   },
@@ -173,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2021-03-21 19:41:30 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2021-03-14 17:04:03 +0100"
@@ -242,6 +260,12 @@
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
       "has_quartz": "2021-03-14 19:26:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-21 21:19:44 +0100"
     },
     "done": true
   },
@@ -478,6 +502,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2021-03-21 21:14:53 +0100"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2021-03-14 16:58:54 +0100"
@@ -604,6 +634,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-21 21:19:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2021-03-14 16:54:31 +0100"
@@ -619,6 +655,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2021-03-14 16:30:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2021-03-21 21:04:24 +0100"
     },
     "done": true
   },
@@ -706,13 +748,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-03-14 17:31:53 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-03-14 17:31:53 +0100"
     },
@@ -728,7 +770,9 @@
     "criteria": {
       "minecraft:blaze": "2021-03-14 19:35:32 +0100",
       "minecraft:skeleton": "2021-03-14 17:03:45 +0100",
+      "minecraft:phantom": "2021-03-21 21:09:09 +0100",
       "minecraft:wither_skeleton": "2021-03-14 19:35:41 +0100",
+      "minecraft:husk": "2021-03-21 20:59:38 +0100",
       "minecraft:cave_spider": "2021-03-14 17:31:16 +0100",
       "minecraft:magma_cube": "2021-03-14 19:31:12 +0100",
       "minecraft:spider": "2021-03-21 17:58:37 +0100",
@@ -875,6 +919,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2021-03-21 21:19:44 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2021-03-14 18:27:27 +0100"
@@ -992,6 +1042,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2021-03-14 21:01:06 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2021-03-21 21:04:24 +0100"
     },
     "done": true
   },
@@ -1175,6 +1231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2021-03-21 21:04:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2021-03-14 16:22:41 +0100"
@@ -1345,8 +1407,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2021-03-14 21:03:40 +0100",
       "minecraft:mountains": "2021-03-14 21:08:56 +0100",
+      "minecraft:forest": "2021-03-14 21:03:40 +0100",
       "minecraft:desert": "2021-03-14 18:32:01 +0100",
       "minecraft:birch_forest": "2021-03-14 19:00:37 +0100",
       "minecraft:savanna_plateau": "2021-03-14 21:01:35 +0100",
@@ -1509,6 +1571,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2021-03-21 21:14:53 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2021-03-14 16:23:39 +0100"
@@ -1530,6 +1598,12 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2021-03-14 21:08:22 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2021-03-21 18:31:43 +0100"
     },
     "done": true
   },

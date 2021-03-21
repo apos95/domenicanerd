@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2021-03-21 18:51:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2021-03-14 18:11:07 +0100"
@@ -149,6 +155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2021-03-21 21:01:24 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2021-03-14 21:56:57 +0100"
@@ -176,6 +188,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2021-03-14 16:34:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2021-03-21 18:32:57 +0100"
     },
     "done": true
   },
@@ -509,7 +527,9 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:cow": "2021-03-14 17:17:11 +0100"
+      "minecraft:cow": "2021-03-14 17:17:11 +0100",
+      "minecraft:chicken": "2021-03-21 19:25:55 +0100",
+      "minecraft:pig": "2021-03-21 21:24:47 +0100"
     },
     "done": false
   },
@@ -765,13 +785,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
+  "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2021-03-18 17:23:36 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_hoe": {
+  "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2021-03-18 17:23:36 +0100"
     },
@@ -795,6 +815,7 @@
       "minecraft:skeleton": "2021-03-14 16:41:35 +0100",
       "minecraft:wither_skeleton": "2021-03-14 21:59:00 +0100",
       "minecraft:husk": "2021-03-14 18:04:27 +0100",
+      "minecraft:ghast": "2021-03-21 19:08:54 +0100",
       "minecraft:enderman": "2021-03-14 21:29:47 +0100",
       "minecraft:magma_cube": "2021-03-14 21:55:49 +0100",
       "minecraft:spider": "2021-03-14 17:25:12 +0100",
@@ -834,6 +855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2021-03-21 21:20:57 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2021-03-14 16:36:11 +0100"
@@ -855,6 +882,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2021-03-14 19:05:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2021-03-21 21:01:24 +0100"
     },
     "done": true
   },
@@ -1134,6 +1167,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2021-03-21 18:51:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2021-03-14 17:04:49 +0100"
@@ -1296,6 +1335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2021-03-21 18:51:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2021-03-14 16:52:04 +0100"
@@ -1392,6 +1437,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2021-03-21 19:38:03 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2021-03-14 22:21:58 +0100"
@@ -1415,6 +1466,7 @@
       "minecraft:forest": "2021-03-14 21:32:47 +0100",
       "minecraft:desert_hills": "2021-03-21 17:52:21 +0100",
       "minecraft:desert": "2021-03-14 16:42:22 +0100",
+      "minecraft:birch_forest": "2021-03-21 18:19:12 +0100",
       "minecraft:river": "2021-03-14 16:39:58 +0100",
       "minecraft:wooded_hills": "2021-03-14 16:29:28 +0100",
       "minecraft:savanna": "2021-03-21 17:51:27 +0100",
@@ -1500,6 +1552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2021-03-21 18:51:40 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2021-03-14 16:35:13 +0100"
@@ -1563,6 +1621,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2021-03-14 17:53:31 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2021-03-21 21:20:57 +0100"
     },
     "done": true
   },
@@ -1665,6 +1729,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2021-03-14 16:32:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2021-03-21 21:01:24 +0100"
     },
     "done": true
   },
