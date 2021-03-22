@@ -1,762 +1,144 @@
-[18:10:50] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:11:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:11:28] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:11:28] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18:11:28] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18:11:28] [main/INFO]: Loaded 0 recipes
-[18:11:28] [main/INFO]: Loaded 0 advancements
-[18:11:28] [Server thread/INFO]: Starting minecraft server version 1.13.2
-[18:11:28] [Server thread/INFO]: Loading properties
-[18:11:28] [Server thread/INFO]: Default game type: SURVIVAL
-[18:11:28] [Server thread/INFO]: Generating keypair
-[18:11:29] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:11:29] [Server thread/INFO]: Using default channel type
-[18:11:30] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:11:30] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:11:30] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:11:30] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:11:30] [Server thread/INFO]: Preparing level "world"
-[18:11:30] [Server thread/INFO]: Reloading ResourceManager: Default
-[18:11:32] [Server thread/INFO]: Loaded 524 recipes
-[18:11:33] [Server thread/INFO]: Loaded 571 advancements
-[18:11:33] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:11:33] [Server thread/INFO]: Preparing spawn area: 4%
-[18:11:33] [Server thread/INFO]: Preparing spawn area: 8%
-[18:11:34] [Server thread/INFO]: Preparing spawn area: 12%
-[18:11:34] [Server thread/INFO]: Preparing spawn area: 16%
-[18:11:34] [Server thread/INFO]: Preparing spawn area: 20%
-[18:11:34] [Server thread/INFO]: Preparing spawn area: 24%
-[18:11:34] [Server thread/INFO]: Preparing spawn area: 28%
-[18:11:34] [Server thread/INFO]: Preparing spawn area: 32%
-[18:11:34] [Server thread/INFO]: Preparing spawn area: 36%
-[18:11:34] [Server thread/INFO]: Preparing spawn area: 40%
-[18:11:34] [Server thread/INFO]: Preparing spawn area: 44%
-[18:11:34] [Server thread/INFO]: Preparing spawn area: 48%
-[18:11:35] [Server thread/INFO]: Preparing spawn area: 52%
-[18:11:35] [Server thread/INFO]: Preparing spawn area: 56%
-[18:11:35] [Server thread/INFO]: Preparing spawn area: 60%
-[18:11:35] [Server thread/INFO]: Preparing spawn area: 64%
-[18:11:35] [Server thread/INFO]: Preparing spawn area: 68%
-[18:11:35] [Server thread/INFO]: Preparing spawn area: 72%
-[18:11:35] [Server thread/INFO]: Preparing spawn area: 76%
-[18:11:35] [Server thread/INFO]: Preparing spawn area: 80%
-[18:11:35] [Server thread/INFO]: Preparing spawn area: 84%
-[18:11:35] [Server thread/INFO]: Preparing spawn area: 88%
-[18:11:36] [Server thread/INFO]: Preparing spawn area: 92%
-[18:11:36] [Server thread/INFO]: Preparing spawn area: 96%
-[18:11:36] [Server thread/INFO]: Preparing spawn area: 100%
-[18:11:36] [Server thread/INFO]: Time elapsed: 2561 ms
-[18:11:36] [Server thread/INFO]: Done (5.695s)! For help, type "help"
-[18:11:40] [Server thread/INFO]: Mau741[/127.0.0.1:59420] logged in with entity id 778 at (-763.5690012274731, 74.0, 1620.9197181806505)
-[18:11:40] [Server thread/INFO]: Mau741 joined the game
-[18:11:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3660ms or 73 ticks behind
-[18:12:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8861ms or 177 ticks behind
-[18:12:20] [Server thread/INFO]: Tarrr[/25.21.17.250:51703] logged in with entity id 1246 at (-40.587554236790254, 76.24918707874468, -91.26651080022614)
-[18:12:20] [Server thread/INFO]: Tarrr joined the game
-[18:12:24] [Server thread/INFO]: Manjoo[/25.20.194.223:63253] logged in with entity id 1785 at (-39.55467236202491, 67.0, -52.707868836381714)
-[18:12:24] [Server thread/INFO]: Manjoo joined the game
-[18:12:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10248ms or 204 ticks behind
-[18:12:59] [Server thread/WARN]: Manjoo moved too quickly! 4.74586750482748,-0.1647732818260721,8.952140520784411
-[18:12:59] [Server thread/WARN]: Tarrr moved too quickly! -10.031789341260037,-1.7491326388584127,-1.4283650612876642
-[18:13:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22097ms or 441 ticks behind
-[18:13:21] [Server thread/WARN]: Mau741 moved too quickly! -1.0543482731088716,5.753199980521202,8.339143931373428
-[18:13:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23484ms or 469 ticks behind
-[18:14:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17484ms or 349 ticks behind
-[18:14:29] [Server thread/INFO]: <Mau741> -100 40 200
-[18:14:47] [Server thread/WARN]: Mau741 moved too quickly! -0.4118819206044009,3.0,-9.582024017383446
-[18:14:47] [Server thread/WARN]: Manjoo moved too quickly! -4.153600702636682,2.0013359791121488,-9.142365669641777
-[18:14:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19455ms or 389 ticks behind
-[18:15:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11615ms or 232 ticks behind
-[18:15:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10185ms or 203 ticks behind
-[18:16:19] [Server thread/WARN]: Tarrr moved too quickly! -8.701636937032994,0.0,5.208891907559746
-[18:16:19] [Server thread/WARN]: Mau741 moved too quickly! -1.3191912568953512,0.3290916160677142,-10.031509838664306
-[18:16:26] [Server thread/WARN]: Manjoo moved too quickly! 5.898169211107422,1.2491870787446828,-8.212439053532332
-[18:16:26] [Server thread/WARN]: Tarrr moved too quickly! 10.176691495052538,-0.5,0.8245144836633358
-[18:16:26] [Server thread/WARN]: Mau741 moved too quickly! -7.428753564599447,0.001335979112141672,-7.109772629680492
-[18:16:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35728ms or 714 ticks behind
-[18:17:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31823ms or 636 ticks behind
-[18:17:53] [Server thread/WARN]: Horse moved wrongly!
-[18:17:53] [Server thread/WARN]: Horse moved wrongly!
-[18:18:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31915ms or 638 ticks behind
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -9.750484493900672,0.0,3.154006581598459
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -10.22769387987421,0.0,3.3901619984281908
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -10.728198405961507,0.0,3.562364208876012
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -11.245060983058465,0.0,3.6411941663877982
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -11.75934287212317,0.0,3.607915464251171
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -12.265834658627114,0.0,3.4968339444281398
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -12.76767211519632,0.0,3.342925407960145
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -13.265505249143303,0.0,3.1624835083667975
-[18:18:49] [Server thread/WARN]: Mau741 moved too quickly! 7.469156055536587,1.1416851727245216,6.747103833631854
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -13.756886140360393,0.0,2.9583256608428243
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -14.241626923635181,0.0,2.7350517790130553
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -14.718478867062231,0.0,2.493483096089541
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -15.183717258010802,0.0,2.2298037576917764
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -15.63952637913701,0.0,1.9493962860704173
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -16.0869470551703,-0.07683200149536162,1.655198131036478
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -16.33759069931557,-0.2274534586630068,1.4760731749333829
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -16.572068508359052,-0.4489423104376016,1.294479468217368
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -16.791496726361174,-0.7384922093173572,1.110377165720699
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -16.997386746433108,-1.0,0.9239845710774048
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -17.283038749178445,-1.0,0.535658111010541
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -17.539667632433634,-1.0,0.10657988379672645
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -17.780766823108138,-1.0,-0.3443038015148403
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -18.014128872623246,-1.0,-0.8065857546073616
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -18.240460255905987,-1.0,-1.2763085281968714
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -18.461278395993645,-1.0,-1.750803541104922
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -18.673272248309786,-1.0,-2.2303851921201243
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -18.875785416326266,-1.0,-2.714608959116376
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -19.05201935476748,-1.0,-3.20851445692103
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -19.20181297840213,-1.0,-3.7108301633278487
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -19.33745891674687,-1.0,-4.217646004676219
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -19.45866625893359,-1.0,-4.72836724090066
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -19.563344499356504,-1.0,-5.242798021686845
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -19.65473274200042,-1.0,-5.759905849843975
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -19.73900977180665,-1.0,-6.278446112674729
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -19.818229182774076,-1.0,-6.797932759359931
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -19.89474236273884,-1.0,-7.317925797176791
-[18:18:49] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! -19.97043388511304,-1.0,-7.838100641144422
-[18:18:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32235ms or 644 ticks behind
-[18:19:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19221ms or 384 ticks behind
-[18:20:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17388ms or 347 ticks behind
-[18:20:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21521ms or 430 ticks behind
-[18:21:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19175ms or 383 ticks behind
-[18:22:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 32529ms or 650 ticks behind
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 1.48362721278329,1.0,-9.877883325770284
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 1.5627660152042608,1.0,-10.397614627730226
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 1.6425972286664887,1.0,-10.917240802417016
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 1.7227989374717367,1.0,-11.436810725595954
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 1.8031988909481242,1.0,-11.956350549714577
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 1.8792760464942262,1.0,-12.47652017415924
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 1.9454328182424092,1.0,-12.997943973574149
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.0005415432133304,1.0,-13.520571409609992
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.0439878706945365,1.0,-14.044239943944941
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.0792750620691436,1.0,-14.568567756287111
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.1101964623887284,1.0,-15.09324833514636
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.138781814959259,1.0,-15.61811767233549
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.1641976310953055,1.0,-16.143175107630682
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.1866530394760844,1.0,-16.668382319600617
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.207524392691198,1.0,-17.193669674082983
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.2275481495697704,1.0,-17.718999911225872
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.247118374547938,1.0,-18.244353094025428
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.2664459236486323,1.0,-18.769718554588373
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.284987884020211,1.0,-19.295113472921315
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.303109491525788,1.0,-19.820524153519656
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.3210061765936985,0.9231679985046384,-20.345943268191945
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.331275873596269,0.7725465413369932,-20.65151671696107
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.3410623375601176,0.5510576895623984,-20.9484610540376
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.3504178542876275,0.26150779068264285,-21.237709949084884
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.3593890522586776,0.0,-21.520096048732707
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.3736690451551112,0.0,-22.016267237135104
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.387589462956896,0.0,-22.526097804941685
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.4013174792947325,0.0,-23.0432372343288
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.4149425454452285,0.0,-23.56428748982468
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.4285125250031,0.0,-24.087430350397902
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.441420513646449,0.0,-24.61170835982896
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.4533417312543975,0.0,-25.13660756325669
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 2.464734947355396,0.0,-25.661839155206756
-[18:22:35] [Server thread/WARN]: Horse (vehicle of Tarrr) moved too quickly! 1.0700631974201542,-1.0,-16.82929304799212
-[18:22:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25968ms or 519 ticks behind
-[18:23:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23039ms or 460 ticks behind
-[18:23:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19657ms or 393 ticks behind
-[18:24:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25489ms or 509 ticks behind
-[18:25:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17016ms or 340 ticks behind
-[18:25:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17958ms or 359 ticks behind
-[18:26:08] [Server thread/WARN]: Mau741 moved too quickly! -10.264966162077371,0.5475485219240284,-0.21952515854263766
-[18:26:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19264ms or 385 ticks behind
-[18:26:21] [Server thread/INFO]: Mau741 lost connection: Disconnected
-[18:26:21] [Server thread/INFO]: Mau741 left the game
-[18:26:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11972ms or 239 ticks behind
-[18:27:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3714ms or 74 ticks behind
-[18:27:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9894ms or 197 ticks behind
-[18:27:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4976ms or 99 ticks behind
-[18:28:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4346ms or 86 ticks behind
-[18:28:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6043ms or 120 ticks behind
-[18:28:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3299ms or 65 ticks behind
-[18:29:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3650ms or 73 ticks behind
-[18:29:09] [Server thread/INFO]: Mau741[/127.0.0.1:59534] logged in with entity id 36821 at (-604.9980808377425, 69.0, 1527.9371955796425)
-[18:29:09] [Server thread/INFO]: Mau741 joined the game
-[18:29:27] [Server thread/WARN]: Mau741 moved too quickly! -1.0843411529451714,-2.504799122994072,-9.7735968750128
-[18:29:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15613ms or 312 ticks behind
-[18:30:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16775ms or 335 ticks behind
-[18:30:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16016ms or 320 ticks behind
-[18:31:03] [Server thread/WARN]: Mau741 moved too quickly! -9.366234453060542,2.975575911786308,2.513883620712704
-[18:31:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17817ms or 356 ticks behind
-[18:31:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20486ms or 409 ticks behind
-[18:32:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17810ms or 356 ticks behind
-[18:32:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19688ms or 393 ticks behind
-[18:32:57] [Server thread/INFO]: Tarrr has made the advancement [Cover Me With Diamonds]
-[18:33:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15681ms or 313 ticks behind
-[18:33:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14805ms or 296 ticks behind
-[18:34:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14661ms or 293 ticks behind
-[18:34:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15072ms or 301 ticks behind
-[18:35:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13722ms or 274 ticks behind
-[18:35:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20629ms or 412 ticks behind
-[18:36:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15490ms or 309 ticks behind
-[18:37:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21687ms or 433 ticks behind
-[18:37:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23799ms or 475 ticks behind
-[18:38:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29953ms or 599 ticks behind
-[18:39:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23695ms or 473 ticks behind
-[18:39:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26558ms or 531 ticks behind
-[18:40:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22319ms or 446 ticks behind
-[18:40:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18696ms or 373 ticks behind
-[18:41:28] [Server thread/WARN]: Tarrr moved too quickly! -0.10628764009863456,0.0,-10.088445224412126
-[18:41:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21783ms or 435 ticks behind
-[18:42:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16476ms or 329 ticks behind
-[18:42:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14615ms or 292 ticks behind
-[18:43:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24146ms or 482 ticks behind
-[18:43:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13968ms or 279 ticks behind
-[18:44:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13885ms or 277 ticks behind
-[18:44:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18255ms or 365 ticks behind
-[18:45:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12797ms or 255 ticks behind
-[18:45:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11589ms or 231 ticks behind
-[18:46:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21840ms or 436 ticks behind
-[18:46:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15289ms or 305 ticks behind
-[18:47:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11013ms or 220 ticks behind
-[18:47:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17578ms or 351 ticks behind
-[18:48:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16177ms or 323 ticks behind
-[18:48:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10397ms or 207 ticks behind
-[18:49:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9890ms or 197 ticks behind
-[18:49:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11916ms or 238 ticks behind
-[18:57:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3213ms or 64 ticks behind
-[18:57:44] [Server thread/WARN]: Manjoo moved too quickly! 0.1819944530725479,0.0,-10.094246903578693
-[18:58:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4716ms or 94 ticks behind
-[18:58:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6836ms or 136 ticks behind
-[18:58:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9286ms or 185 ticks behind
-[18:59:00] [Server thread/INFO]: Mau741 lost connection: Disconnected
-[18:59:00] [Server thread/INFO]: Mau741 left the game
-[18:59:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5590ms or 111 ticks behind
-[19:01:20] [Server thread/INFO]: sopa[/25.20.156.62:52958] logged in with entity id 74059 at (-18.109350475138548, 74.0, -6.837427006965289)
-[19:01:20] [Server thread/INFO]: sopa joined the game
-[19:01:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
-[19:01:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5459ms or 109 ticks behind
-[19:02:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14374ms or 287 ticks behind
-[19:02:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5522ms or 110 ticks behind
-[19:02:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2923ms or 58 ticks behind
-[19:03:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6422ms or 128 ticks behind
-[19:03:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3684ms or 73 ticks behind
-[19:04:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10378ms or 207 ticks behind
-[19:04:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11380ms or 227 ticks behind
-[19:04:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3993ms or 79 ticks behind
-[19:05:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6069ms or 121 ticks behind
-[19:05:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6383ms or 127 ticks behind
-[19:05:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2097ms or 41 ticks behind
-[19:06:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2909ms or 58 ticks behind
-[19:06:25] [Server thread/WARN]: Manjoo moved too quickly! -10.04849872252619,0.0,0.03776430003601661
-[19:06:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8057ms or 161 ticks behind
-[19:06:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5893ms or 117 ticks behind
-[19:07:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3351ms or 67 ticks behind
-[19:07:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3225ms or 64 ticks behind
-[19:07:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5021ms or 100 ticks behind
-[19:08:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8969ms or 179 ticks behind
-[19:08:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9575ms or 191 ticks behind
-[19:08:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6596ms or 131 ticks behind
-[19:09:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7937ms or 158 ticks behind
-[19:09:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10131ms or 202 ticks behind
-[19:10:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3423ms or 68 ticks behind
-[19:10:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2237ms or 44 ticks behind
-[19:10:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4303ms or 86 ticks behind
-[19:10:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2895ms or 57 ticks behind
-[19:11:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2757ms or 55 ticks behind
-[19:11:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7502ms or 150 ticks behind
-[19:11:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7862ms or 157 ticks behind
-[19:12:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3793ms or 75 ticks behind
-[19:12:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6301ms or 126 ticks behind
-[19:12:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5737ms or 114 ticks behind
-[19:13:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3927ms or 78 ticks behind
-[19:13:23] [Server thread/INFO]: Junior_SG[/25.29.54.149:57875] logged in with entity id 93855 at (-36.95541199474159, 71.0, -81.35616791911684)
-[19:13:23] [Server thread/INFO]: Junior_SG joined the game
-[19:13:32] [Server thread/WARN]: sopa moved too quickly! -10.060754329803828,-1.0,-0.599822916093288
-[19:13:37] [Server thread/INFO]: Tarrr lost connection: Disconnected
-[19:13:37] [Server thread/INFO]: Tarrr left the game
-[19:13:39] [Server thread/INFO]: Manjoo lost connection: Disconnected
-[19:13:39] [Server thread/INFO]: Manjoo left the game
-[19:13:40] [Server thread/INFO]: Junior_SG lost connection: Disconnected
-[19:13:40] [Server thread/INFO]: Junior_SG left the game
-[19:13:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12072ms or 241 ticks behind
-[19:13:56] [Server thread/INFO]: Junior_SG[/25.29.54.149:57882] logged in with entity id 94364 at (-31.419868012794353, 72.0, -74.48834983804232)
-[19:13:56] [Server thread/INFO]: Junior_SG joined the game
-[19:14:07] [Server thread/INFO]: Manjoo[/25.20.194.223:63307] logged in with entity id 94720 at (-31.690634852932273, 72.0, -73.26571691555765)
-[19:14:07] [Server thread/INFO]: Manjoo joined the game
-[19:14:12] [Server thread/INFO]: Tarrr[/25.21.17.250:61894] logged in with entity id 94865 at (-56.280611358011384, 69.0, -52.628439185257534)
-[19:14:12] [Server thread/INFO]: Tarrr joined the game
-[19:14:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[19:14:33] [Server thread/INFO]: sopa lost connection: Disconnected
-[19:14:33] [Server thread/INFO]: sopa left the game
-[19:14:34] [Server thread/INFO]: Junior_SG lost connection: Disconnected
-[19:14:34] [Server thread/INFO]: Junior_SG left the game
-[19:14:34] [Server thread/INFO]: Manjoo lost connection: Disconnected
-[19:14:34] [Server thread/INFO]: Manjoo left the game
-[19:14:40] [Server thread/INFO]: Manjoo[/25.20.194.223:63311] logged in with entity id 95385 at (-41.16471883522473, 71.0, -77.0590722916041)
-[19:14:40] [Server thread/INFO]: Manjoo joined the game
-[19:14:40] [Server thread/WARN]: Fetching addPacket for removed entity
-[19:14:44] [Server thread/INFO]: sopa[/25.20.156.62:53001] logged in with entity id 95395 at (-36.33174058329499, 71.0, -80.87810573072964)
-[19:14:44] [Server thread/INFO]: sopa joined the game
-[19:14:46] [Server thread/INFO]: Junior_SG[/25.29.54.149:57887] logged in with entity id 95419 at (-34.15615700037317, 71.0, -80.60741788200285)
-[19:14:46] [Server thread/INFO]: Junior_SG joined the game
-[19:14:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
-[19:15:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7956ms or 159 ticks behind
-[19:15:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3939ms or 78 ticks behind
-[19:15:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3189ms or 63 ticks behind
-[19:16:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5068ms or 101 ticks behind
-[19:16:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4876ms or 97 ticks behind
-[19:17:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9142ms or 182 ticks behind
-[19:17:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13200ms or 264 ticks behind
-[19:17:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12759ms or 255 ticks behind
-[19:18:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24369ms or 487 ticks behind
-[19:19:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24820ms or 496 ticks behind
-[19:20:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28484ms or 569 ticks behind
-[19:20:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16006ms or 320 ticks behind
-[19:21:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21270ms or 425 ticks behind
-[19:21:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14217ms or 284 ticks behind
-[19:22:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19035ms or 380 ticks behind
-[19:22:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31459ms or 629 ticks behind
-[19:23:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30149ms or 602 ticks behind
-[19:24:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26249ms or 524 ticks behind
-[19:25:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31033ms or 620 ticks behind
-[19:25:21] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! -3.280437022246076,-1.0,9.550101390604567
-[19:25:21] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! -3.3399306514523914,-1.0,9.806990596649172
-[19:25:21] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! -3.3717645062657198,-1.0,9.944446888985425
-[19:25:21] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! -3.3887981672777414,-1.0,10.017997010431742
-[19:25:21] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! -3.397912539670699,-1.0,10.057352213986462
-[19:25:21] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! -3.4027894586171783,-1.0,10.078410398750492
-[19:25:21] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! -3.49029567091128,-1.0,10.31789690312371
-[19:25:21] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! -3.6186221301086334,-1.0,10.676471959795379
-[19:25:21] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! -3.7669766296428406,-1.0,11.099402553608655
-[19:25:21] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! -3.919973357841002,-1.0,11.558774879084382
-[19:25:21] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! -4.074224041141008,-1.0,12.038031390300063
-[19:25:21] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! -4.229145690814846,-1.0,12.52792753285729
-[19:25:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 30059ms or 601 ticks behind
-[19:26:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22798ms or 455 ticks behind
-[19:27:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29725ms or 594 ticks behind
-[19:27:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24531ms or 490 ticks behind
-[19:28:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28425ms or 568 ticks behind
-[19:29:00] [Server thread/WARN]: Horse moved wrongly!
-[19:29:00] [Server thread/WARN]: Horse moved wrongly!
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 8.346902199282255,1.0,-5.474398330577472
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 8.802486559791106,1.0,-5.736731682254884
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 9.258265731618593,1.0,-5.998735548965001
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 9.714149143098552,1.0,-6.260563114838348
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 10.17008833113826,1.0,-6.522296345648996
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 10.62605736410302,1.0,-6.783979099648434
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 11.079779580461349,1.0,-7.049496443183074
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 11.52544591506961,1.0,-7.327868091623884
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 11.963165213691468,1.0,-7.618380852861819
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 12.396251472234127,1.0,-7.9159244520313905
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 12.826858683403259,0.9231679985046384,-8.217230112398397
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 13.07715515860167,0.7725465413369932,-8.392662366833463
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 13.320256703499979,0.5510576895623984,-8.56332245880698
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 13.55712672719423,0.26150779068264285,-8.729464305305598
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 13.789406341962604,-0.09340793910909895,-8.89007046669198
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 14.018830481037838,-0.5111010141305457,-9.043355826195395
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 14.246272879452249,-0.9890854526840371,-9.188753800925824
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 14.472312909558497,-1.5249737179006644,-9.32609117670836
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 14.697349916441738,-2.0,-9.455445968123001
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 15.134302422005703,-2.0,-9.63341599786402
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 15.606365238447012,-2.0768320014953616,-9.783179623737126
-[19:29:18] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 15.882929447059666,-2.227453458663007,-9.854712715608613
-[19:29:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 33422ms or 668 ticks behind
-[19:29:42] [Server thread/WARN]: Horse moved wrongly!
-[19:29:42] [Server thread/WARN]: Horse moved wrongly!
-[19:29:42] [Server thread/WARN]: Horse moved wrongly!
-[19:29:42] [Server thread/WARN]: Horse moved wrongly!
-[19:29:42] [Server thread/WARN]: Horse moved wrongly!
-[19:29:42] [Server thread/WARN]: Horse moved wrongly!
-[19:29:42] [Server thread/WARN]: Horse moved wrongly!
-[19:29:42] [Server thread/WARN]: Horse moved wrongly!
-[19:29:42] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse (vehicle of sopa) moved too quickly! 9.995998273449473,0.9489423104376016,0.9394488238820315
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:43] [Server thread/WARN]: Horse moved wrongly!
-[19:29:44] [Server thread/WARN]: Horse moved wrongly!
-[19:29:44] [Server thread/WARN]: Horse moved wrongly!
-[19:29:44] [Server thread/WARN]: Horse moved wrongly!
-[19:30:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22523ms or 450 ticks behind
-[19:30:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24435ms or 488 ticks behind
-[19:31:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 25069ms or 501 ticks behind
-[19:31:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13840ms or 276 ticks behind
-[19:32:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10795ms or 215 ticks behind
-[19:32:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12679ms or 253 ticks behind
-[19:33:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17981ms or 359 ticks behind
-[19:33:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18187ms or 363 ticks behind
-[19:34:22] [Server thread/WARN]: Manjoo moved too quickly! -7.121798409924878,-0.22768848754498094,7.148348196555901
-[19:34:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21711ms or 434 ticks behind
-[19:35:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20494ms or 409 ticks behind
-[19:35:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17972ms or 359 ticks behind
-[19:36:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20787ms or 415 ticks behind
-[19:36:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17558ms or 351 ticks behind
-[19:37:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15991ms or 319 ticks behind
-[19:37:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17566ms or 351 ticks behind
-[19:38:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14892ms or 297 ticks behind
-[19:38:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16463ms or 329 ticks behind
-[19:39:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20633ms or 412 ticks behind
-[19:40:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20473ms or 409 ticks behind
-[19:40:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36768ms or 735 ticks behind
-[19:41:30] [Server thread/INFO]: Manjoo has made the advancement [Cover Me With Diamonds]
-[19:41:39] [Server thread/WARN]: Junior_SG moved too quickly! -1.5134353480041227,1.2508673611415873,10.091596190309247
-[19:41:39] [Server thread/WARN]: Manjoo moved too quickly! 6.356930570521428,1.252203340253729,7.7091801559307385
-[19:41:39] [Server thread/WARN]: Junior_SG moved too quickly! -1.533364460965572,1.2478510996325411,9.878900662983142
-[19:41:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47805ms or 956 ticks behind
-[19:42:47] [Server thread/WARN]: Manjoo moved too quickly! 0.0,-14.133969169922397,0.0
-[19:42:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37293ms or 745 ticks behind
-[19:43:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36091ms or 721 ticks behind
-[19:44:23] [Server thread/WARN]: Manjoo moved too quickly! 6.281057919534646,0.0,8.099524424445704
-[19:44:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37202ms or 744 ticks behind
-[19:45:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26138ms or 522 ticks behind
-[19:45:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21766ms or 435 ticks behind
-[19:46:17] [Server thread/WARN]: Junior_SG moved too quickly! 10.008485058998644,0.0,0.017773298338852328
-[19:46:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23910ms or 478 ticks behind
-[19:47:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21380ms or 427 ticks behind
-[19:47:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17614ms or 352 ticks behind
-[19:48:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24557ms or 491 ticks behind
-[19:48:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21007ms or 420 ticks behind
-[19:49:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22035ms or 440 ticks behind
-[19:50:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22129ms or 442 ticks behind
-[19:50:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 22480ms or 449 ticks behind
-[19:51:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23259ms or 465 ticks behind
-[19:52:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 23055ms or 461 ticks behind
-[19:52:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 20035ms or 400 ticks behind
-[19:53:12] [Server thread/INFO]: sopa lost connection: Disconnected
-[19:53:12] [Server thread/INFO]: sopa left the game
-[19:53:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21180ms or 423 ticks behind
-[19:53:14] [Server thread/INFO]: Manjoo lost connection: Disconnected
-[19:53:14] [Server thread/INFO]: Manjoo left the game
-[19:53:15] [Server thread/INFO]: Junior_SG lost connection: Disconnected
-[19:53:15] [Server thread/INFO]: Junior_SG left the game
-[19:53:22] [Server thread/INFO]: Manjoo[/25.20.194.223:63337] logged in with entity id 167044 at (-32.30000001192093, 71.0, -73.94210483324518)
-[19:53:22] [Server thread/INFO]: Manjoo joined the game
-[19:53:26] [Server thread/INFO]: Manjoo lost connection: Disconnected
-[19:53:26] [Server thread/INFO]: Manjoo left the game
-[19:53:32] [Server thread/INFO]: Manjoo[/25.20.194.223:63340] logged in with entity id 167060 at (-32.30000001192093, 71.0, -73.94210483324518)
-[19:53:32] [Server thread/INFO]: Manjoo joined the game
-[19:53:37] [Server thread/INFO]: Junior_SG[/25.29.54.149:50546] logged in with entity id 167106 at (-36.24935278001899, 71.0, -74.11188865988345)
-[19:53:37] [Server thread/INFO]: Junior_SG joined the game
-[19:53:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14000ms or 280 ticks behind
-[19:54:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14701ms or 294 ticks behind
-[19:54:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18861ms or 377 ticks behind
-[19:55:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21074ms or 421 ticks behind
-[19:55:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18230ms or 364 ticks behind
-[19:56:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16140ms or 322 ticks behind
-[19:56:38] [Server thread/INFO]: Junior_SG has made the advancement [Enchanter]
-[19:56:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17588ms or 351 ticks behind
-[19:57:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14999ms or 299 ticks behind
-[19:57:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13814ms or 276 ticks behind
-[19:57:59] [Server thread/INFO]: sopa[/25.20.156.62:53101] logged in with entity id 172306 at (-34.158616777219244, 71.0, -75.87757587698796)
-[19:57:59] [Server thread/INFO]: sopa joined the game
-[19:58:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17436ms or 348 ticks behind
-[19:59:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15160ms or 303 ticks behind
-[19:59:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11661ms or 233 ticks behind
-[19:59:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8958ms or 179 ticks behind
-[20:00:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6393ms or 127 ticks behind
-[20:00:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4645ms or 92 ticks behind
-[20:00:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6456ms or 129 ticks behind
-[20:01:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5634ms or 112 ticks behind
-[20:01:23] [Server thread/INFO]: Tarrr lost connection: Disconnected
-[20:01:23] [Server thread/INFO]: Tarrr left the game
-[20:01:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5211ms or 104 ticks behind
-[20:01:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4487ms or 89 ticks behind
-[20:02:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6951ms or 139 ticks behind
-[20:02:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7761ms or 155 ticks behind
-[20:02:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3997ms or 79 ticks behind
-[20:03:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2744ms or 54 ticks behind
-[20:03:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4361ms or 87 ticks behind
-[20:03:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5179ms or 103 ticks behind
-[20:04:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3307ms or 66 ticks behind
-[20:04:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4655ms or 93 ticks behind
-[20:04:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8076ms or 161 ticks behind
-[20:05:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6666ms or 133 ticks behind
-[20:05:21] [Server thread/INFO]: sopa lost connection: Disconnected
-[20:05:21] [Server thread/INFO]: sopa left the game
-[20:05:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5921ms or 118 ticks behind
-[20:05:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5952ms or 119 ticks behind
-[20:06:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4029ms or 80 ticks behind
-[20:06:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3846ms or 76 ticks behind
-[20:06:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6565ms or 131 ticks behind
-[20:07:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4345ms or 86 ticks behind
-[20:07:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4288ms or 85 ticks behind
-[20:07:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6742ms or 134 ticks behind
-[20:08:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5197ms or 103 ticks behind
-[20:08:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5276ms or 105 ticks behind
-[20:08:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6027ms or 120 ticks behind
-[20:09:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4118ms or 82 ticks behind
-[20:09:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4132ms or 82 ticks behind
-[20:09:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6312ms or 126 ticks behind
-[20:10:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4655ms or 93 ticks behind
-[20:10:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4778ms or 95 ticks behind
-[20:11:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6418ms or 128 ticks behind
-[20:11:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4930ms or 98 ticks behind
-[20:11:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5673ms or 113 ticks behind
-[20:12:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6853ms or 137 ticks behind
-[20:12:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4538ms or 90 ticks behind
-[20:12:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5233ms or 104 ticks behind
-[20:13:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6956ms or 139 ticks behind
-[20:13:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5027ms or 100 ticks behind
-[20:13:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5307ms or 106 ticks behind
-[20:14:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6905ms or 138 ticks behind
-[20:14:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5628ms or 112 ticks behind
-[20:14:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4383ms or 87 ticks behind
-[20:15:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6624ms or 132 ticks behind
-[20:15:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7050ms or 141 ticks behind
-[20:15:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6361ms or 127 ticks behind
-[20:16:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8107ms or 162 ticks behind
-[20:16:35] [Server thread/INFO]: Junior_SG lost connection: Disconnected
-[20:16:35] [Server thread/INFO]: Junior_SG left the game
-[20:16:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6417ms or 128 ticks behind
-[20:16:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[20:17:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
-[20:19:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
-[20:19:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2681ms or 53 ticks behind
-[20:20:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[20:20:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2282ms or 45 ticks behind
-[20:20:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[20:21:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[20:21:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
-[20:21:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[20:22:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2546ms or 50 ticks behind
-[20:22:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[20:22:41] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[20:22:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2959ms or 59 ticks behind
-[20:23:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[20:23:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[20:23:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3333ms or 66 ticks behind
-[20:24:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[20:24:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3041ms or 60 ticks behind
-[20:24:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[20:25:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
-[20:25:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2452ms or 49 ticks behind
-[20:25:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[20:26:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[20:26:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3014ms or 60 ticks behind
-[20:26:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
-[20:27:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2324ms or 46 ticks behind
-[20:27:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2226ms or 44 ticks behind
-[20:27:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
-[20:28:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2129ms or 42 ticks behind
-[20:28:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[20:28:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[20:29:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2357ms or 47 ticks behind
-[20:29:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[20:29:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2916ms or 58 ticks behind
-[20:30:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
-[20:30:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
-[20:30:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[20:31:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2206ms or 44 ticks behind
-[20:31:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[20:32:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5217ms or 104 ticks behind
-[20:32:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2059ms or 41 ticks behind
-[20:32:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
-[20:33:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2722ms or 54 ticks behind
-[20:33:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
-[20:33:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[20:34:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
-[20:34:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[20:34:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3847ms or 76 ticks behind
-[20:35:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
-[20:35:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2213ms or 44 ticks behind
-[20:35:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2182ms or 43 ticks behind
-[20:36:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3213ms or 64 ticks behind
-[20:36:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3952ms or 79 ticks behind
-[20:36:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3622ms or 72 ticks behind
-[20:36:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2367ms or 47 ticks behind
-[20:37:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2863ms or 57 ticks behind
-[20:37:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2886ms or 57 ticks behind
-[20:37:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2412ms or 48 ticks behind
-[20:38:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4711ms or 94 ticks behind
-[20:38:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4016ms or 80 ticks behind
-[20:38:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3701ms or 74 ticks behind
-[20:39:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[20:39:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[20:40:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3510ms or 70 ticks behind
-[20:40:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6159ms or 123 ticks behind
-[20:41:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12281ms or 245 ticks behind
-[20:41:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2273ms or 45 ticks behind
-[20:41:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
-[20:41:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4916ms or 98 ticks behind
-[20:42:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2969ms or 59 ticks behind
-[20:42:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[20:43:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4034ms or 80 ticks behind
-[20:43:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2316ms or 46 ticks behind
-[20:43:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
-[20:43:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[20:44:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2438ms or 48 ticks behind
-[20:44:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4474ms or 89 ticks behind
-[20:44:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3219ms or 64 ticks behind
-[20:45:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2727ms or 54 ticks behind
-[20:45:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
-[20:45:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2214ms or 44 ticks behind
-[20:46:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2019ms or 40 ticks behind
-[20:46:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3230ms or 64 ticks behind
-[20:46:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
-[20:47:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
-[20:47:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
-[20:47:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
-[20:48:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2536ms or 50 ticks behind
-[20:48:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
-[20:48:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
-[20:49:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2430ms or 48 ticks behind
-[20:49:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2949ms or 58 ticks behind
-[20:49:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2862ms or 57 ticks behind
-[20:49:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5257ms or 105 ticks behind
-[20:50:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2901ms or 58 ticks behind
-[20:50:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3163ms or 63 ticks behind
-[20:50:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2600ms or 52 ticks behind
-[20:51:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
-[20:51:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2495ms or 49 ticks behind
-[20:51:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4927ms or 98 ticks behind
-[20:52:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2858ms or 57 ticks behind
-[20:52:16] [Server thread/INFO]: Junior_SG[/25.29.54.149:53188] logged in with entity id 229749 at (-35.5, 71.0, -76.5)
-[20:52:16] [Server thread/INFO]: Junior_SG joined the game
-[20:52:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2490ms or 49 ticks behind
-[20:52:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4708ms or 94 ticks behind
-[20:53:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2969ms or 59 ticks behind
-[20:53:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4476ms or 89 ticks behind
-[20:53:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6305ms or 126 ticks behind
-[20:54:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5340ms or 106 ticks behind
-[20:54:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2935ms or 58 ticks behind
-[20:54:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4735ms or 94 ticks behind
-[20:54:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4435ms or 88 ticks behind
-[20:55:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4078ms or 81 ticks behind
-[20:55:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4165ms or 83 ticks behind
-[20:55:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3735ms or 74 ticks behind
-[20:56:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3941ms or 78 ticks behind
-[20:56:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5366ms or 107 ticks behind
-[20:56:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3759ms or 75 ticks behind
-[20:57:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4766ms or 95 ticks behind
-[20:57:23] [Server thread/INFO]: sopa[/25.20.156.62:53189] logged in with entity id 236902 at (-152.6147304953007, 63.0, -23.378061009065885)
-[20:57:23] [Server thread/INFO]: sopa joined the game
-[20:57:27] [Server thread/INFO]: Tarrr[/25.21.17.250:61979] logged in with entity id 237835 at (-38.596513564294966, 71.0, -72.2415085109958)
-[20:57:27] [Server thread/INFO]: Tarrr joined the game
-[20:57:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8765ms or 175 ticks behind
-[20:58:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8716ms or 174 ticks behind
-[20:58:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7192ms or 143 ticks behind
-[20:58:35] [Server thread/INFO]: sopa lost connection: Disconnected
-[20:58:35] [Server thread/INFO]: sopa left the game
-[20:58:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11140ms or 222 ticks behind
-[20:58:49] [Server thread/INFO]: sopa[/25.20.156.62:53200] logged in with entity id 239767 at (-139.4243958831428, 69.0, -26.136910151585234)
-[20:58:49] [Server thread/INFO]: sopa joined the game
-[20:58:57] [Server thread/INFO]: sopa hit the ground too hard whilst trying to escape Junior_SG
-[20:59:11] [Server thread/INFO]: Junior_SG lost connection: Disconnected
-[20:59:11] [Server thread/INFO]: Junior_SG left the game
-[20:59:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9474ms or 189 ticks behind
-[20:59:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9117ms or 182 ticks behind
-[21:00:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9488ms or 189 ticks behind
-[21:00:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9232ms or 184 ticks behind
-[21:00:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9513ms or 190 ticks behind
-[21:01:16] [Server thread/INFO]: Junior_SG[/25.29.54.149:60981] logged in with entity id 243297 at (-140.74641893500123, 63.0, -39.636464646852836)
-[21:01:16] [Server thread/INFO]: Junior_SG joined the game
-[21:01:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11823ms or 236 ticks behind
-[21:01:27] [Server thread/INFO]: Junior_SG was shot by Manjoo
-[21:01:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11038ms or 220 ticks behind
-[21:01:53] [Server thread/INFO]: Junior_SG lost connection: Disconnected
-[21:01:53] [Server thread/INFO]: Junior_SG left the game
-[21:02:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11179ms or 223 ticks behind
-[21:02:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10627ms or 212 ticks behind
-[21:03:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9309ms or 186 ticks behind
-[21:03:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 11388ms or 227 ticks behind
-[21:03:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7436ms or 148 ticks behind
-[21:04:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4101ms or 82 ticks behind
-[21:04:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3272ms or 65 ticks behind
-[21:04:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4297ms or 85 ticks behind
-[21:05:04] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3776ms or 75 ticks behind
-[21:05:16] [Server thread/INFO]: Junior_SG[/25.29.54.149:59322] logged in with entity id 247527 at (-118.57281622363604, 63.0, -58.40255564260157)
-[21:05:16] [Server thread/INFO]: Junior_SG joined the game
-[21:05:20] [Server thread/INFO]: <Junior_SG> ahahahaha
-[21:05:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3710ms or 74 ticks behind
-[21:05:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10791ms or 215 ticks behind
-[21:06:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4357ms or 87 ticks behind
-[21:06:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4204ms or 84 ticks behind
-[21:06:50] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7841ms or 156 ticks behind
-[21:07:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6163ms or 123 ticks behind
-[21:07:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6550ms or 131 ticks behind
-[21:07:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7960ms or 159 ticks behind
-[21:08:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5975ms or 119 ticks behind
-[21:08:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6780ms or 135 ticks behind
-[21:09:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8648ms or 172 ticks behind
-[21:09:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9162ms or 183 ticks behind
-[21:09:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8525ms or 170 ticks behind
-[21:10:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9715ms or 194 ticks behind
-[21:10:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8476ms or 169 ticks behind
-[21:11:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7390ms or 147 ticks behind
-[21:11:21] [Server thread/INFO]: Junior_SG fell off a ladder
-[21:11:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13663ms or 273 ticks behind
-[21:11:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14214ms or 284 ticks behind
-[21:12:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12667ms or 253 ticks behind
-[21:12:49] [Server thread/WARN]: Junior_SG moved too quickly! -8.289199268891124,0.0,5.952305308036216
-[21:12:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14230ms or 284 ticks behind
-[21:13:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12927ms or 258 ticks behind
-[21:13:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10804ms or 216 ticks behind
-[21:14:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13628ms or 272 ticks behind
-[21:14:29] [Server thread/WARN]: Manjoo moved too quickly! 8.471462519321847,-1.376735613781733,5.7344162759652235
-[21:14:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12313ms or 246 ticks behind
-[21:14:53] [Server thread/INFO]: Manjoo has made the advancement [The Parrots and the Bats]
-[21:15:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21339ms or 426 ticks behind
-[21:15:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19464ms or 389 ticks behind
-[21:16:26] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16548ms or 330 ticks behind
-[21:16:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15866ms or 317 ticks behind
-[21:17:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16526ms or 330 ticks behind
-[21:17:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14361ms or 287 ticks behind
-[21:18:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15117ms or 302 ticks behind
-[21:18:49] [Server thread/WARN]: sopa moved too quickly! -9.998260018071601,0.49520087700592796,-0.03933276870783686
-[21:18:50] [Server thread/WARN]: Manjoo moved too quickly! 5.379404488381695,-1.252203340253729,-8.631277047129004
-[21:18:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16388ms or 327 ticks behind
-[21:19:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14020ms or 280 ticks behind
-[21:19:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 12617ms or 252 ticks behind
-[21:20:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10757ms or 215 ticks behind
-[21:20:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9079ms or 181 ticks behind
-[21:21:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16598ms or 331 ticks behind
-[21:21:52] [Server thread/WARN]: Tarrr moved too quickly! -10.175023346960273,0.0,-0.11997143020999346
-[21:21:52] [Server thread/WARN]: sopa moved too quickly! -0.1069164202464492,-1.0,10.139983490144111
-[21:22:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29848ms or 596 ticks behind
-[21:22:12] [Server thread/INFO]: Mau741[/127.0.0.1:61483] logged in with entity id 274328 at (-780.1208772037488, 36.0, 1657.6252020003271)
-[21:22:12] [Server thread/INFO]: Mau741 joined the game
-[21:22:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40794ms or 815 ticks behind
-[21:23:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36589ms or 731 ticks behind
-[21:23:53] [Server thread/WARN]: Junior_SG moved too quickly! -0.9085619986764186,0.0,10.232766723410968
-[21:24:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 38336ms or 766 ticks behind
-[21:25:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31723ms or 634 ticks behind
-[21:26:09] [Server thread/INFO]: Junior_SG was slain by sopa
-[21:26:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28811ms or 576 ticks behind
-[21:26:14] [Server thread/WARN]: sopa moved too quickly! 0.25557073119012585,-0.3042134179297449,9.998073847038947
-[21:26:52] [Server thread/WARN]: Horse moved wrongly!
-[21:26:52] [Server thread/WARN]: Horse moved wrongly!
-[21:26:52] [Server thread/WARN]: Horse moved wrongly!
-[21:26:52] [Server thread/WARN]: Horse moved wrongly!
-[21:26:52] [Server thread/WARN]: Horse moved wrongly!
-[21:26:54] [Server thread/WARN]: Horse moved wrongly!
-[21:26:54] [Server thread/WARN]: Horse moved wrongly!
-[21:26:54] [Server thread/WARN]: Horse moved wrongly!
-[21:26:57] [Server thread/WARN]: Horse moved wrongly!
-[21:26:57] [Server thread/WARN]: Horse moved wrongly!
-[21:26:57] [Server thread/WARN]: Horse moved wrongly!
-[21:26:57] [Server thread/WARN]: Horse moved wrongly!
-[21:26:57] [Server thread/WARN]: Horse moved wrongly!
-[21:26:58] [Server thread/WARN]: Horse moved wrongly!
-[21:26:58] [Server thread/WARN]: Horse moved wrongly!
-[21:26:58] [Server thread/WARN]: Horse moved wrongly!
-[21:26:58] [Server thread/WARN]: Horse moved wrongly!
-[21:26:58] [Server thread/WARN]: Horse moved wrongly!
-[21:26:58] [Server thread/WARN]: Horse moved wrongly!
-[21:26:58] [Server thread/WARN]: Horse moved wrongly!
-[21:26:58] [Server thread/WARN]: Horse moved wrongly!
-[21:26:58] [Server thread/WARN]: Horse moved wrongly!
-[21:26:58] [Server thread/WARN]: Horse moved wrongly!
-[21:26:58] [Server thread/WARN]: Horse moved wrongly!
-[21:26:58] [Server thread/WARN]: Horse moved wrongly!
-[21:26:58] [Server thread/WARN]: Horse moved wrongly!
-[21:26:59] [Server thread/WARN]: Horse moved wrongly!
-[21:26:59] [Server thread/WARN]: Horse moved wrongly!
-[21:27:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 37260ms or 745 ticks behind
+[22:24:10] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:24:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:24:10] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:24:10] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[22:24:10] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[22:24:10] [main/INFO]: Loaded 0 recipes
+[22:24:10] [main/INFO]: Loaded 0 advancements
+[22:24:10] [Server thread/INFO]: Starting minecraft server version 1.13.2
+[22:24:10] [Server thread/INFO]: Loading properties
+[22:24:10] [Server thread/INFO]: Default game type: SURVIVAL
+[22:24:10] [Server thread/INFO]: Generating keypair
+[22:24:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:24:11] [Server thread/INFO]: Using default channel type
+[22:24:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:24:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:24:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:24:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:24:13] [Server thread/INFO]: Preparing level "world"
+[22:24:13] [Server thread/INFO]: Reloading ResourceManager: Default
+[22:24:16] [Server thread/INFO]: Loaded 524 recipes
+[22:24:18] [Server thread/INFO]: Loaded 571 advancements
+[22:24:18] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:24:19] [Server thread/INFO]: Preparing spawn area: 4%
+[22:24:19] [Server thread/INFO]: Preparing spawn area: 8%
+[22:24:19] [Server thread/INFO]: Preparing spawn area: 12%
+[22:24:19] [Server thread/INFO]: Preparing spawn area: 16%
+[22:24:19] [Server thread/INFO]: Preparing spawn area: 20%
+[22:24:19] [Server thread/INFO]: Preparing spawn area: 24%
+[22:24:19] [Server thread/INFO]: Preparing spawn area: 28%
+[22:24:19] [Server thread/INFO]: Preparing spawn area: 32%
+[22:24:20] [Server thread/INFO]: Preparing spawn area: 36%
+[22:24:20] [Server thread/INFO]: Preparing spawn area: 40%
+[22:24:20] [Server thread/INFO]: Preparing spawn area: 44%
+[22:24:20] [Server thread/INFO]: Preparing spawn area: 48%
+[22:24:20] [Server thread/INFO]: Preparing spawn area: 52%
+[22:24:21] [Server thread/INFO]: Preparing spawn area: 56%
+[22:24:21] [Server thread/INFO]: Preparing spawn area: 60%
+[22:24:21] [Server thread/INFO]: Preparing spawn area: 64%
+[22:24:21] [Server thread/INFO]: Preparing spawn area: 68%
+[22:24:21] [Server thread/INFO]: Preparing spawn area: 72%
+[22:24:21] [Server thread/INFO]: Preparing spawn area: 76%
+[22:24:21] [Server thread/INFO]: Preparing spawn area: 80%
+[22:24:21] [Server thread/INFO]: Preparing spawn area: 84%
+[22:24:21] [Server thread/INFO]: Preparing spawn area: 88%
+[22:24:22] [Server thread/INFO]: Preparing spawn area: 92%
+[22:24:22] [Server thread/INFO]: Preparing spawn area: 96%
+[22:24:22] [Server thread/INFO]: Preparing spawn area: 100%
+[22:24:22] [Server thread/INFO]: Time elapsed: 3485 ms
+[22:24:22] [Server thread/INFO]: Done (8.686s)! For help, type "help"
+[22:24:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[22:24:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3310ms or 66 ticks behind
+[22:24:45] [Server thread/INFO]: Tarrr[/127.0.0.1:65199] logged in with entity id 605 at (-776.5, 36.0, 1656.5)
+[22:24:45] [Server thread/INFO]: Tarrr joined the game
+[22:24:51] [Server thread/INFO]: Manjoo[/25.20.194.223:54984] logged in with entity id 948 at (-780.8430859830737, 36.0, 1657.0825126699358)
+[22:24:51] [Server thread/INFO]: Manjoo joined the game
+[22:24:56] [Server thread/INFO]: Mau741[/25.38.111.88:62624] logged in with entity id 949 at (-777.9502881348646, 36.0, 1656.7359754522565)
+[22:24:56] [Server thread/INFO]: Mau741 joined the game
+[22:24:57] [Server thread/INFO]: sopa[/25.20.156.62:59687] logged in with entity id 950 at (-775.5, 36.0, 1653.5)
+[22:24:57] [Server thread/INFO]: sopa joined the game
+[22:25:03] [Server thread/INFO]: Junior_SG[/25.29.54.149:62544] logged in with entity id 951 at (-778.7570452388096, 38.0, 1654.7428670696922)
+[22:25:03] [Server thread/INFO]: Junior_SG joined the game
+[22:25:07] [Server thread/WARN]: Tarrr moved too quickly! 879.2602908059358,10.078400001525878,-1650.7508847391478
+[22:25:07] [Server thread/WARN]: Tarrr moved too quickly! 879.2602908059358,10.078400001525878,-1650.7508847391478
+[22:25:15] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[22:25:15] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[22:25:33] [Server thread/WARN]: sopa moved too quickly! 879.0295575375218,10.464159374955443,-1650.3868731673222
+[22:25:36] [Server thread/WARN]: Junior_SG moved too quickly! 878.1253518659577,10.233632006042477,-1650.426636500256
+[22:25:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40764ms or 815 ticks behind
+[22:26:03] [Server thread/WARN]: Fetching addPacket for removed entity
+[22:26:04] [Server thread/WARN]: Mau741 moved too quickly! 878.4277065272481,10.392604549951344,-1649.6709169563148
+[22:26:05] [Server thread/WARN]: Fetching addPacket for removed entity
+[22:26:11] [Server thread/WARN]: Manjoo moved too quickly! 879.4282830250274,10.464159374955443,-1649.2918351192357
+[22:26:19] [Server thread/WARN]: Mau741 moved too quickly! -9.607963694830218,1.0,2.8786941649335347
+[22:26:19] [Server thread/WARN]: Mau741 moved too quickly! -9.567678541626051,1.0,3.071729739178682
+[22:26:19] [Server thread/WARN]: Manjoo moved too quickly! -10.068490992803078,0.0,-0.22435357885670837
+[22:26:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 28060ms or 561 ticks behind
+[22:26:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8675ms or 173 ticks behind
+[22:27:22] [Server thread/INFO]: sopa was slain by Enderman
+[22:27:26] [Server thread/WARN]: sopa moved too quickly! -814.8165348293224,-22.900001525878906,1638.2096101095667
+[22:27:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[22:27:32] [Server thread/WARN]: sopa moved too quickly! 878.2598165408373,10.392604549951344,-1650.3133311045176
+[22:28:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 19581ms or 391 ticks behind
+[22:29:04] [Server thread/INFO]: sopa was slain by Enderman
+[22:29:07] [Server thread/WARN]: sopa moved too quickly! -850.1245026167458,-21.900001525878906,1642.6704069898078
+[22:29:09] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2605ms or 52 ticks behind
+[22:29:13] [Server thread/WARN]: sopa moved too quickly! 878.4292789816444,10.392604549951344,-1650.0735599500717
+[22:29:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 16328ms or 326 ticks behind
+[22:30:57] [Server thread/INFO]: sopa was slain by Enderman
+[22:31:00] [Server thread/WARN]: sopa moved too quickly! -799.3578149757811,-22.900001525878906,1634.7568835976756
+[22:31:00] [Server thread/WARN]: Manjoo moved too quickly! 9.625410968594007,1.1661092609382138,2.8112689507502893
+[22:31:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[22:31:05] [Server thread/WARN]: sopa moved too quickly! 878.2815877014071,10.392604549951344,-1649.9870514686638
+[22:31:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 14111ms or 282 ticks behind
+[22:33:34] [Server thread/INFO]: Mau741 has made the advancement [Free the End]
+[22:33:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2035ms or 40 ticks behind
+[22:33:54] [Server thread/WARN]: sopa moved too quickly! -776.5110143335862,-27.435842150923463,1654.9398551265413
+[22:34:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18238ms or 364 ticks behind
+[22:34:39] [Server thread/WARN]: sopa moved too quickly! 878.9375988943696,10.392604549951344,-1650.4371827125753
+[22:34:57] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 17641ms or 352 ticks behind
+[22:35:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15380ms or 307 ticks behind
+[22:35:34] [Server thread/WARN]: Tarrr moved too quickly! -9.638066950426968,0.0,2.765751976616712
+[22:35:35] [Server thread/WARN]: Manjoo moved too quickly! 3.959968181393265,1.252203340253729,-9.317600745562913
+[22:36:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 24400ms or 488 ticks behind
+[22:36:13] [Server thread/WARN]: Mau741 moved too quickly! -775.7940614944691,-27.435842150923463,1653.115016712688
+[22:36:47] [Server thread/WARN]: Manjoo moved too quickly! 10.035825499655601,0.2046003784434518,-1.806969488585537
+[22:36:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 26641ms or 532 ticks behind
+[22:37:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 29682ms or 593 ticks behind
+[22:37:43] [Server thread/WARN]: Tarrr moved too quickly! 10.194741116705146,0.0,-0.11875160226335169
+[22:37:43] [Server thread/WARN]: Junior_SG moved too quickly! 10.116656203997337,0.0,-0.4339660162021053
+[22:38:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 34833ms or 696 ticks behind
+[22:38:46] [Server thread/WARN]: Mau741 moved too quickly! 878.6250432138238,10.464159374955443,-1650.3059730409334
+[22:39:00] [Server thread/WARN]: Manjoo moved too quickly! -4.848013175359981,-2.0,8.781179329185477
+[22:39:15] [Server thread/WARN]: Mau741 moved too quickly! -777.8245353330169,-27.435842150923463,1655.4681052757035
+[22:39:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 47375ms or 947 ticks behind
+[22:39:37] [Server thread/WARN]: sopa moved too quickly! -0.027417738921940327,0.0,-10.03559259276146
+[22:39:37] [Server thread/WARN]: Tarrr moved too quickly! -0.27839983265361923,0.0,-10.086969955394544
+[22:40:09] [Server thread/INFO]: sopa has made the advancement [A Terrible Fortress]
+[22:40:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41959ms or 839 ticks behind
+[22:41:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 41290ms or 825 ticks behind
+[22:41:19] [Server thread/WARN]: sopa moved too quickly! 10.096036840585498,0.0,-0.8195537068686747
+[22:41:19] [Server thread/WARN]: Mau741 moved too quickly! 4.84186663916018,3.8338907390617862,-7.894201770306147
+[22:42:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 53470ms or 1069 ticks behind
+[22:43:00] [Server thread/INFO]: sopa has made the advancement [Into Fire]
+[22:43:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 40549ms or 810 ticks behind
+[22:44:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 31954ms or 639 ticks behind
+[22:45:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 36548ms or 730 ticks behind
+[22:45:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21358ms or 427 ticks behind
+[22:48:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2254ms or 45 ticks behind
+[22:50:20] [Server thread/INFO]: Junior_SG lost connection: Disconnected
+[22:50:20] [Server thread/INFO]: Junior_SG left the game
+[22:50:40] [Server thread/INFO]: Junior_SG[/25.29.54.149:62630] logged in with entity id 13244 at (352.66402799788574, 68.0, -20.353683814375188)
+[22:50:40] [Server thread/INFO]: Junior_SG joined the game
+[22:50:52] [Server thread/INFO]: Manjoo has made the advancement [Into Fire]
+[22:51:02] [Server thread/INFO]: Manjoo has made the advancement [Ice Bucket Challenge]
+[23:05:54] [Server thread/INFO]: Mau741 lost connection: Disconnected
+[23:05:54] [Server thread/INFO]: Mau741 left the game
+[23:05:55] [Server thread/INFO]: sopa lost connection: Disconnected
+[23:05:55] [Server thread/INFO]: sopa left the game
+[23:05:56] [Server thread/INFO]: Manjoo lost connection: Disconnected
+[23:05:56] [Server thread/INFO]: Manjoo left the game
+[23:06:13] [Server thread/INFO]: Junior_SG lost connection: Disconnected
+[23:06:13] [Server thread/INFO]: Junior_SG left the game
+[23:06:15] [Server thread/INFO]: Tarrr lost connection: Disconnected
+[23:06:15] [Server thread/INFO]: Tarrr left the game
